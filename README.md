@@ -1,6 +1,6 @@
 # Javascript
 
-##Basics
+## Basics
 
 
 ##### variables
